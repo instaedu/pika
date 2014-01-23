@@ -3,7 +3,7 @@
 # For copyright and licensing please refer to COPYING.
 #
 # ***** END LICENSE BLOCK *****
-__version__ = '0.9.13.iedu1'
+__version__ = '0.9.13.iedu2'
 
 from pika.connection import ConnectionParameters
 from pika.connection import URLParameters
